@@ -3,7 +3,7 @@ A collection of single programs that I can not classify.
 
 
 
-* Linear-Regression-from-Scratch\
+* Linear-Regression-from-Scratch (2020, September, 10)\
   Made my own Linear Regression from scratch.\
   Just for fun.
 
