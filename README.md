@@ -3,6 +3,10 @@ A collection of single programs that I can not classify.
 
 
 
+* Covid-19 (2020, September, 17)\
+  This is some analysis with official data from WHO
+  
+  
 * Linear-Regression-from-Scratch (2020, September, 10)\
   Made my own Linear Regression from scratch.\
   Just for fun.
