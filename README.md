@@ -6,7 +6,7 @@ A collection of single programs that I can not classify.
 * The-Farm-Problem (2020, November,23)\
   It's a classical problem in linear optimization - Based in the class from Professor Luiz Leduino Neto (Unifesp): "Linear Optimization"\
   \
-  Linear programming (LP, also called linear optimization) is a method to achieve the best outcome (such as maximum profit or lowest cost) in a       mathematical model whose requirements are represented by linear relationships. Linear programming is a special case of mathematical programming (also known as mathematical optimization).\
+  Linear programming (LP, also called linear optimization) is a method to achieve the best outcome (such as maximum profit or lowest cost) in a       mathematical model whose requirements are represented by linear relationships. Linear programming is a special case of mathematical programming (also known as mathematical optimization).
 
   John owns a small 45-hectare farm and wants to plant corn and beans. Each hectare of corn generates a profit of US $ 200 and each hectare of beans returns US $ 300 in profit. The number of employees and fertilizers needed for each hectare are described in the table below, Considering that John has 100 employees and 120 tons of fertilizers, how can he maximize his profit?
 
