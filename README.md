@@ -4,7 +4,7 @@ A collection of single programs that I can not classify.
 
 
 * Linear-Regression-from-Scratch\
-  Made my own Linear Regression from scratch. \ 
+  Made my own Linear Regression from scratch. \\ 
   Just for fun.
 
 
