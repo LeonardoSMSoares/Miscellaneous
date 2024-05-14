@@ -20,6 +20,16 @@ A collection of single old programs that I can not classify.
 
 
 
+* 3 Graphics for Business Case (2024, Fev, 12)\
+  Creating 3 Graphics for a Business Case.
+
+
+
+* Tim Hortons Survey App - Data Analysis (2023, Dec, 15)\
+  Methods in Business Analysis.
+
+
+
 * Covid-19 (2020, September, 17)\
   This is some analysis with official data from WHO
   
